@@ -1,1 +1,1 @@
-# stellar
+# wildfire-detection
